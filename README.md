@@ -5,7 +5,7 @@ End-to-end analytics project for a retail company: **Python** (cleaning and feat
 ## Business problem
 > How can the company use consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
-Full brief: [`docs/Business_Problem_Document.pdf`](docs/Business_Problem_Document.pdf)
+Full brief: [`docs/Business_Problem_Document.pdf`]([docs/Business_Problem_Document.pdf](https://github.com/bhor633/customer-shopping-behavior-analysis/blob/7772475f578525671afd593aafb383555c795e36/customer-shopping-behavior-analysis/customer-shopping-behavior-analysis/dashboard/customer_behavior_dashboard.pdf))
 
 ## Dataset
 3,900 transactions, 18 raw columns: demographics, product, category, purchase amount (USD), season, review rating, subscription, shipping type, discount, payment method, purchase frequency, previous purchases.
